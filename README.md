@@ -1,0 +1,2 @@
+-Introduction to Git. We will learn a lot frome here henceforth
+-We learn by doing
